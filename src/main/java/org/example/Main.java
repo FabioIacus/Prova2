@@ -1,7 +1,7 @@
 package org.example;
 
 public class Main {
-    //commento1
+    //commento 1
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
@@ -9,4 +9,6 @@ public class Main {
     proviamo
     come se fosse codice
      */
+    int a;
+    //commento 2
 }
